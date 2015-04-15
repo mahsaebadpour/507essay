@@ -4,13 +4,10 @@
 **Dr.Sayers**
 **14 April, 2015**
 
-                          ##Mahsa Ebadpour
-##English 507
-##Dr.Sayers
-## 14 April, 2015
+                         
 
                                                      
-                                                     Moody Gatsby; a deformation of weather patterns
+                               Moody Gatsby; a deformation of weather patterns
 
 Although Fitzgerald’s *The Great Gatsby* has been abundantly studied among scholars, the weather patterns have gone unnoticed.  This masterpiece of Fitzgerald embodies a remarkable number of symbols. Schneider in his *Color Symbolism* points to several of them that are represented by colors. He begins with mentioning the already familiar and famous symbol; the green light that symbolizes the organic future and the promise of a dream enchanting Gatsby. Then he brings attention to the color yellow that represents the corruption money plants in the dream. He further elaborates the way the novel’s conflicts have been portrayed by the lights and darks that Fitzgerald uses. Lights as in Gatsby’s dream world that has the vividness of a rainbow and dark is the reader's view of the valley of ashes with the gloomy reality lying underneath (145). Schneider continues to draw connections, between white and gold, blue and white, and white and red; the color white color, Schneider argues, symbolizes purity and innocence (i.e. Jordan and Daisy's white dresses). The yellow on the other hand ultimately taints and corrupts that purity (146). Among all the symbols that he discusses weather conditions are not to be seen; however, it is plausible that the color yellow could be linked to the yellow and golden color of the sun.  If one takes on this analogy, the golden rays of sunshine, contrary to the conventional beliefs, become a symbol for corruption and decay. The symbolic yellow one more time echoes the conception that Gatsby’s yellow car is the cars of death, the grotesque end to the Myrtle`s doomed life (Schneider 149). Symbols are a dominant element ruling the overall theme of *The Great Gatsby* and despite the impressive number of studies, very little attention has been paid to the weather conditions.
 
