@@ -78,9 +78,9 @@ Notes
 
 Works cited 
 
-Denissen, Jaap J. A., et al. "The Effects of Weather on Daily Mood: A Multilevel Approach."* the American Psychological Association*8.5 (2008): 662-7. Web. 17 Feb.2015.
+Denissen, Jaap J. A., et al. "The Effects of Weather on Daily Mood: A Multilevel Approach." *the American Psychological Association* 8.5 (2008): 662-7. Web. 17 Feb.2015.
 
-Dilworth, Thomas. "The Passion Of Gatsby: Evocation Of Jesus In Fitzgerald's THE GREAT GATSBY." *Explicator *68.2 (2010): 119-121. *Academic Search Complete *. Web. 1 Apr. 2015.
+Dilworth, Thomas. "The Passion Of Gatsby: Evocation Of Jesus In Fitzgerald's THE GREAT GATSBY." *Explicator* 68.2 (2010): 119-121. *Academic Search Complete*. Web. 1 Apr. 2015.
 
 DOYNO, Victor A. "Patterns In The Great Gatsby." *Fitzgerald's the Great Gatsby: The Novel, the Critics, the Background*. Ed. Henry Dan Piper. New York: Scribner, 1970. Print.
 
@@ -88,20 +88,17 @@ Eble, Kenneth.” The structure of Gatsby”. *F. Scott Fitzgerald's the Great G
 
 ---. F. Fitzgerald, Scott.*The Great Gatsby.* London,1925. *Feed books*. Web. 17 Feb.2015
 
-Godshalk, W.L. "The Great Gatsby And Edward Thomas's `Rain'." *English Language Notes *32.4 (1995): 75. Academic Search Complete. Web. 10 Apr. 2015.
+Godshalk, W.L. "The Great Gatsby And Edward Thomas's `Rain'." *English Language Notes*32.4 (1995): 75. Academic Search Complete. Web. 10 Apr. 2015.
 
-Hoover, David L. "Text-Alteration As An Interpretive Teaching Strategy: The Case Of ‘The Snow Man.’" Style 42.4 (2008): 470-485. *Academic Search Complete. *Web. 
+Hoover, David L. "Text-Alteration As An Interpretive Teaching Strategy: The Case Of ‘The Snow Man.’" Style 42.4 (2008): 470-485. *Academic Search Complete.*Web. 11 Feb. 2015.
 
-11 Feb. 2015.
-
-Jockers, Matthew L. "A Novel Method for Detecting Plot." *Matthew L. Jockers.2014.Web. 17 Feb.2015.
+Jockers, Matthew L. "A Novel Method for Detecting Plot." *Matthew L. Jockers*.2014.Web. 17 Feb.2015.
 
 Jockers, Matthew L. "Syuzhet Package" *Github*.2015.Web. 17 Feb.2015.
 
-Jockers, Matthew L."Revealing Sentiment and Plot Arcs with the Syuzhet Package."Matthew L.Jockers.2015.Web.17 Feb.2015.
+Jockers, Matthew L."Revealing Sentiment and Plot Arcs with the Syuzhet Package." *Matthew L.Jockers* .2015.Web.17 Feb.2015.
 
-McGann, Jerome. "Dialogue and Interpretation at the Interface of Man and Machine: Reflections on Textuality and a Proposal for an Experiment in Machine Reading." 
-*Computers and the Humanities *36.1 (2002): 95-107. ProQuest. Web. 10 Feb. 2015.
+McGann, Jerome. "Dialogue and Interpretation at the Interface of Man and Machine: Reflections on Textuality and a Proposal for an Experiment in Machine Reading." *Computers and the Humanities* 36.1 (2002): 95-107. ProQuest. Web. 10 Feb. 2015.
 
 PARKER D., (analytic). "THE GREAT GATSBY: TWO VERSIONS OF THE HERO (English)." *F. Scott Fitzgerald's the Great Gatsby*. Ed. Harold Bloom.  New Haven: Chelsea 
 House Publishers, 1986. Print.
