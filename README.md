@@ -67,14 +67,15 @@ Through these observations it can be claimed that Fitzgerald is employing parall
 
 
 
-                                                          Notes
+Notes
 
 [1] The detailed method is described in Jockers’ Github repository “Syuzhet” under a vignette that gives step by step instruction on how to run the package in Rstudio.
 [2] The sentiment analysis was conducted by using three vectors, already in syuzhet package, in Rstudio environment. 
 <https://github.com/mjockers/syuzhet> 
 
 
-                                                         Works cited 
+
+Works cited 
 
 Denissen, Jaap J. A., et al. "The Effects of Weather on Daily Mood: A Multilevel Approach."* the American Psychological Association*8.5 (2008): 662-7. Web. 17 Feb.2015.
 
