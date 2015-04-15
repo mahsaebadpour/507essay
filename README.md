@@ -34,16 +34,16 @@ There seems to be an underlying purpose for employing these particular weather p
 The part of the novel chosen for deformance was chapter seven since as Eble observes is the longest one in the novel and filled with twists and climaxes (6). It has, also, made obvious by the results of the emotional analysis that this chapter is heated with tension and negative sentiment. The primary concern was to examine the function of the concept heat has on the content of the novel. Therefore, the repetition and especially the abundant references to heat in chapter seven were focused on. Using a simple text editor the words “broiling”, “hot”, “warm”, “heat” and all the stemmed words were replaced by words with an opposite connotation. This application aimed to experiment with the change that these alterations would make in the function of the text. Once these alterations were implemented manually while going through the text the modification that they consequently made in the course of the plot were evaluated. Here is an example of the deformed text in chapter seven, seemingly the most significant chapter of the novel. The scene starts with Nick’s visit to Tom Buchanan’s house with Gaby’s company; this scene paves the way to the ultimate death of three characters. The description of that day, as Nick puts it, is of a hot and sweltering day “The next day was broiling, almost the last, certainly the warmest, of the summer” (Fitzgerald 121). He enters the Buchanans’ house and finds Daisy and Jordan resting on the couch in the comfort of the cooling fans (Fitzgerald 122). To be able to stand the heat Daisy asks Tom to make them a cold drink (Fitzgerald 123). However, replacing the weather patterns in this passage would alter the course that the plot moves on to their decision to make a trip to the city. Below are fragments of the deformed text:
 
 
-									The next day was cool, almost the last, certainly the coldest, of the winter.
-									The room, shadowed well with awnings, was dark and cool. Daisy and
-									Jordan lay upon an enormous couch, like silver idols, weighing down
-									their own white dresses against the sizzling of the fireplace. "We can't move," they said together.
-									"Make us a hot cup of tea," cried Daisy.
-									Tom came back, preceding four cups of tea that steam rose from in the cold.
-									Gatsby took up his tea.
-									"They certainly look hot," he said, with visible tension.
-									They drank in long greedy swallows. Sitting on the big couch, they sipped the warm tea and relaxed 
-									in the comfort that the cold lurking outside is trapped in the wind.
+		The next day was cool, almost the last, certainly the coldest, of the winter.
+	        The room, shadowed well with awnings, was dark and cool. Daisy and
+		Jordan lay upon an enormous couch, like silver idols, weighing down
+		their own white dresses against the sizzling of the fireplace. "We can't move," they said together.
+		"Make us a hot cup of tea," cried Daisy.
+		Tom came back, preceding four cups of tea that steam rose from in the cold.
+		Gatsby took up his tea.
+		"They certainly look hot," he said, with visible tension.
+		They drank in long greedy swallows. Sitting on the big couch, they sipped the warm tea and relaxed 
+		in the comfort that the cold lurking outside is trapped in the wind.
 
 
 Through this deformation and replacing the heat of the summer with the cold of the winter an alteration in the character’s course of action occurs that terminates their decision to drive to the town altogether. Consequently, the accident that takes place on the drive back killing Myrtle does not occur. Changing the weather pattern as we go on in the story still has an enormous impact on the plot. Later in the chapter while trying to decide how to go to town Gatsby’s leather car seats has been heated by the warmth of the aggressive summer sun and therefore Tom suggest that they exchange their cars (Fitzgerald 128). Eliminating the heat of the summer would take the possibility of Tom driving Gatsby's car to New York off the table. The car didn't have much gas in, so it obliged Tom to make a stop by Wilson’s garage. Had Wilson haven't seen Tom driving the yellow car, he would not have any means of finding out who the car belongs to and would not narrow down the suspect of Myrtle’s murder to Gatsby. But even prior to that, Myrtle wouldn't run to the yellow car if she wasn’t under the impression that the car belonged to Tom. Furthermore Tom not stopping by Wilson’s garage would have saved him the information about Wilson and Myrtle's moving away, would not lash out at Gatsby and revealing his dishonesty to Daisy. This shock drove Daisy to an unstable emotional state that affected her driving and compromised her driving.
